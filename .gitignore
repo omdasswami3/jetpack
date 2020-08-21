@@ -3,7 +3,6 @@
 /node_modules
 vendor/bin
 vendor/dealerdirect
-vendor/nojimage
 vendor/phpcompatibility
 vendor/sirbrillig
 vendor/squizlabs
@@ -66,7 +65,6 @@ _inc/jetpack-strings.php
 /modules/**/*/block.js
 /vendor/automattic/
 /vendor/composer/
-/vendor/nojimage/
 /vendor/autoload.php
 /vendor/autoload_packages.php
 /vendor/autoload_functions.php
